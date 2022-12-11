@@ -2,7 +2,7 @@
 layout: single
 title: "마크다운 설명서"
 categories:
-  - CategoryA
+  - /CategoryA
 ---
 
 #제목(Header)
