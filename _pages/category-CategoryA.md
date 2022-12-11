@@ -1,5 +1,5 @@
 ---
-title: "markdown"
+title: "Amarkdown"
 layout: archive
 permalink: /CategoryA
 ---
