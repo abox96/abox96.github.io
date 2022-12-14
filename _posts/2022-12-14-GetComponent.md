@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "GetComponent()메서드"
-categories: /Unity
+categories: Unity
 ---
 
 ```C#
