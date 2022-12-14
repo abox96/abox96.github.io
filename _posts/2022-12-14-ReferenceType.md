@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "참조 타입"
-categories: /Unity
+categories: Unity
 ---
 
 	Animal tom = new Animal();
