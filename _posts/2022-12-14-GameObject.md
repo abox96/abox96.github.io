@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "GameObject와 gameObject"
-categories: /Unity
+categories: Unity
 ---
 
 gameObject 와 GameObject
