@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Player 이동 조작"
-categories: /Unity
+categories: Unity
 ---
 
 ```C#
