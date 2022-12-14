@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "오브젝트 비활성화"
-categories: /Unity
+categories: Unity
 ---
 
 ```C#
