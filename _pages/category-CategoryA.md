@@ -1,7 +1,7 @@
 ---
 title: "markdown"
 layout: archive
-permalink: /CategoryA
+permalink: /blog
 ---
 
 
