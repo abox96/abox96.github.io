@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "입력 매니저"
-categories: /Unity
+categories: Unity
 ---
 
 Input.GetAxis() 메서드로 Input.GetKey() 메서드를 대체했을 때 우린 입력은 Horizontal과 Vertical 출력은 true, false가 아닌 숫자로 사용했습니다.
