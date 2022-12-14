@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "입력 매니저"
+title: "오브젝트 비활성화"
 categories: /Unity
 ---
 
