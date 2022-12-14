@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "생성자 new"
-categories: /Unity
+categories: Unity
 ---
 
 
